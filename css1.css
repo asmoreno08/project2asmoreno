@@ -1,0 +1,314 @@
+@charset "utf-8";
+/* CSS Document */
+.background{
+	position: absolute;
+	height: 1500px;
+	width: 1900px;
+}
+
+
+.start {
+	height: 100px; 
+	left: 700px;
+	position:absolute;
+	top: 900px;
+	opacity: 0;
+	transition: opacity 2s;
+}
+.start:hover{
+	opacity:2;
+}
+
+.bepop {
+	position: absolute;
+	top: 150px;
+	left: 300px;
+	height: 800px;
+	width: 1300px;
+}
+.player{
+	position: absolute;
+	left: 840px;
+	top: 90px;
+}
+
+.heart{
+	position: absolute;
+	height: 300px;
+	top: 500px;
+	left: 1200px;
+	opacity: 0;
+}
+
+.heart:hover{
+	opacity:100;
+}
+
+.bk1{
+	position: absolute;
+	height: 1000px;
+	opacity: 0;
+	transition: opacity 3s;
+}
+.bk2{
+	position: absolute;
+	height: 900px;
+	opacity: 0;
+	transition: opacity 3s;
+}
+.bk3{
+	position: absolute;
+	height: 800px; 
+	opacity: 0;
+	transition: opacity 3s;
+}
+.bk4{
+	position: absolute;
+	height: 700px;
+	opacity: 0;
+	transition: opacity 3s;
+}
+.bk5{
+	position: absolute;
+	height: 600px;
+	opacity: 0;
+	transition: opacity 3s;
+}
+.bk6{
+	position: absolute;
+	height: 500px;
+	opacity: 0;
+	transition: opacity 3s;
+}
+
+.bk7{
+	position: absolute;
+	height: 400px;
+	opacity: 0;
+	transition: opacity 3s;
+}
+.bk8{
+	position: absolute;
+	height: 300px;
+	opacity: 0;
+	transition: opacity 3s;
+}
+.bk9{
+	position: absolute;
+	height: 200px;
+	opacity: 0;
+	transition: opacity 3s;
+}
+.bk10{
+	position: absolute;
+	height: 100px;
+	opacity: 0;
+	transition: opacity 3s;
+}
+.bk1:hover{
+	opacity: 100;
+}
+.bk2:hover{
+	opacity: 100;
+}
+.bk3:hover{
+	opacity: 100;
+}
+.bk4:hover{
+	opacity: 100;
+}
+.bk5:hover{
+	opacity: 100;
+}
+.bk6:hover{
+	opacity: 100;
+}
+.bk7:hover{
+	opacity: 100;
+}
+.bk8:hover{
+	opacity: 100;
+}
+.bk9:hover{
+	opacity: 100;
+}
+.bk10:hover{
+	opacity: 100;
+}
+.rectangle{
+	position: absolute;
+	left: 1500px;
+	height: 1000px;
+}
+.text3{
+	position: absolute;
+	left: 1500px;
+	top: 50px;
+	width: 200px
+}
+.text4{
+	position: absolute;
+	left: 1500px;
+	top: 100px;
+	width: 200px
+}
+.text5{
+	position: absolute;
+	left: 1500px;
+	top: 150px;
+	width: 200px
+}
+.text6{
+	position: absolute;
+	left: 1500px;
+	top: 200px;
+	width: 200px
+}
+.text7{
+	position: absolute;
+	left: 1500px;
+	top: 250px;
+	width: 200px
+}
+.text8{
+	position: absolute;
+	left: 1500px;
+	top: 700px;
+	width: 200px
+}
+.rectangle2{
+	right: 200px;
+	height: 1400px;
+	width: 1100px;
+}
+.textpage4{
+	position: absolute;
+	top: 70px;
+	left: 200px;
+}
+.text2page4{
+	position: absolute;
+	top: 70px;
+	left: 2400px;
+}
+
+.city {
+	width: 1200px;
+	height: 1390px;
+	right: 400px; 
+}
+
+.city2 {
+	position: absolute;
+	width: 1200px;
+	height: 1390px;
+	left: 1115px; 
+	opacity: 0;
+	transition: opacity 1s;
+}
+.city2:hover{
+	opacity: 100;
+}
+.page5text{
+	position: absolute;
+	top: 1px;
+	left: 200px;
+	opacity: 0;
+	transition: opacity 3s;
+}
+.page5text:hover{
+	opacity:100;
+}
+.page5text2{
+	position: absolute;
+	top: 500px;
+	left: 900px;
+	opacity: 0;
+	transition: opacity 4s;
+}
+.page5text2:hover {
+	opacity: 100;
+}
+.page6text{
+	position: absolute;
+	top: 600px;
+	left: 1000px;
+}
+.page6text1{
+	position: absolute;
+	top: 300px;
+	left: 1000px;
+}
+.page6text2{
+	position: absolute;
+	top: 200px;
+	left: 800px;
+}
+.page6text3{
+	position: absolute;
+	top: 50px;
+	left: 500px;
+}
+.page6text4{
+	position: absolute;
+	top: 100px;
+	left: 1000px;
+}
+.page6text5{
+	position: absolute;
+	top: 600px;
+	left: 1200px;
+}
+.page6text6{
+	position: absolute;
+	top: 500px;
+	left: 1300px;
+}
+.page6text7{
+	position: absolute;
+	top: 300px;
+	left: 1000px;
+}
+.page6text8{
+	position: absolute;
+	top: 100px;
+	left: 1100px;
+}
+.page6text9{
+	position: absolute;
+	top: 500px;
+	left: 800px;
+}
+.page6text10{
+	position: absolute;
+	top: 50px;
+	left: 1000px;
+}
+.page6text11{
+	position: absolute;
+	top: 0px;
+	left: 500px;
+}
+.page7bg{
+	position: absolute;
+	width: 2000px;
+	height: 1800px;	
+}
+.object7{
+	position: absolute;
+	left: 600px;
+	top:200px;
+	opacity: 0;
+	transition: opacity 6s;
+}
+.object7:hover{
+	opacity: 70;
+}
+
+.heartvac{
+	position: absolute;
+	width: 100px;
+	left:1800px;
+}
+
+
